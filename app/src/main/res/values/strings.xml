@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appFood</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ban_muon_an_gi">Bạn muốn ăn gì?</string>
+    <string name="mat_hang_pho_bien">Mặt hàng phổ biến</string>
+    <string name="loai_mon_an">Loại món ăn</string>
+    <string name="Chi_tiet_mon_an">- Chi tiết món ăn:</string>
+</resources>
